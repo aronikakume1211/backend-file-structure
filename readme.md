@@ -46,4 +46,4 @@
 1. Clone the repository:
    ```bash
    git clone https://github.com/aronikakume1211/backend-file-structure.git
-   cd your-repository
+   cd backend-file-structure
